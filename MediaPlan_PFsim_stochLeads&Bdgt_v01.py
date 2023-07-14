@@ -1,5 +1,5 @@
 #!/home/pinoystat/Documents/python/mymachine/bin/python
-
+# this is a test line for a commit
 #* get execution time 
 import time
 import numpy as np
